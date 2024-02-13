@@ -13,4 +13,4 @@ app.get('/app/cpu', function(req, res) {
     res.send('cpu')
 })
 
-app.listen(3000)
+app.listen(80)
